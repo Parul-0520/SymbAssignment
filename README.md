@@ -12,4 +12,4 @@ This is a **React/Next.js project** showcasing a modern web application with res
 - Smooth animations and transitions
 
 ## Tech Stack
-- **Frontend:** React.js, Next.js, Tailwind CSS
+- React.js, Next.js, JavaScript, Tailwind CSS
